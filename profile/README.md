@@ -14,7 +14,7 @@ Our members are very diverse and work on everything from monolitic platforms to 
 
 #### Warning
 
-This is the project repository for a group of developers to contribute and discuss code. All projects are expirmental and should not be deployed in a production environment without further review.
+This is the project repository for a group of developers to contribute and discuss code. All projects are experimental and should not be deployed in a production environment without further review.
 
 
 
